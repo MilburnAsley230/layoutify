@@ -1,0 +1,37 @@
+{
+  "name": "layoutify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilburnAsley230/layoutify.git"
+  },
+  "author": "MilburnAsley230",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilburnAsley230/layoutify/issues"
+  },
+  "homepage": "https://github.com/MilburnAsley230/layoutify#readme",
+  "dependencies": {
+    "@yindongfang/keybinding": "^1.0.1",
+    "debug": "^4.3.4",
+    "express": "^4.19.2",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-null": "^1.0.1",
+    "is-number": "^7.0.0",
+    "is-object": "^1.0.2",
+    "jquery": "^3.7.1",
+    "koa": "^2.15.2",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.1.0",
+    "octokit": "^3.1.2",
+    "react": "^18.2.0",
+    "webpack": "^5.91.0",
+    "[object Object]": "^1.0.0"
+  }
+}

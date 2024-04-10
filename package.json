@@ -1,6 +1,6 @@
 {
   "name": "layoutify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -32,11 +32,11 @@
     "octokit": "^3.1.2",
     "react": "^18.2.0",
     "webpack": "^5.91.0",
-    "[object Object]": "^1.0.0",
     "cyto-scraper": "^1.0.0",
     "chartinator": "^1.0.0",
     "vizify": "^1.0.0",
     "graphify": "^1.0.0",
-    "datagraph": "^1.0.0"
+    "datagraph": "^1.0.0",
+    "cyto-extractor": "^1.0.0"
   }
 }
